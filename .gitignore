@@ -1,0 +1,12 @@
+# Ignore node modules
+**/node_modules/
+
+# Ignore environment variables
+**/.env
+
+# MacOS
+.DS_Store
+
+# Build outputs
+**/dist/
+**/build/
