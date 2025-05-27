@@ -71,7 +71,7 @@ const onSubmitHandler = async (e) =>{
   return (
     <form onSubmit={onSubmitHandler} className="flex flex-col w-full items-start gap-3">
       <div>
-        <p className="mb-2">Upload Image</p>
+        <p className="mb-2">Upload Image Pratik</p>
 
         <div className="flex gap-2">
           <label htmlFor="image1">
